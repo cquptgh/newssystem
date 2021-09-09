@@ -1,5 +1,4 @@
-# newssystem
-全球新闻发布管理系统
+# 全球新闻发布管理系统
 
 ### 项目模块
 * 登录模块
@@ -129,3 +128,10 @@
 `yarn build`
 
 ### 截图
+![Image text](https://github.com/cquptgh/newssystem/blob/master/src/assets/login.png)
+
+![Image text](https://github.com/cquptgh/newssystem/blob/master/src/assets/admin.png)
+
+![Image text](https://github.com/cquptgh/newssystem/blob/master/src/assets/newsadd.png)
+
+![Image text](https://github.com/cquptgh/newssystem/blob/master/src/assets/userlist.png)
